@@ -1,0 +1,1 @@
+console.log(`oie, em breve serei uma API`)
